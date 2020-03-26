@@ -13,7 +13,6 @@ pipeline {
         DEV_PROJECT = "patrick-verstaen-colruytgrou-books-dev"
         STAGE_PROJECT = "patrick-verstaen-colruytgrou-books-stage"
         APP_GIT_URL = "https://github.com/PatrickVerstaen/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/nodejs"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-eu2.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
